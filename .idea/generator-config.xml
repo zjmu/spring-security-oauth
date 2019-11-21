@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistentConfig">
+    <option name="historyConfigList">
+      <map>
+        <entry key="tb_permission">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="TbPermissionDao" />
+              <option name="daoPackage" value="mapper" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-server" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="TbPermission" />
+              <option name="modelPackage" value="domain" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-server" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="tb_permission" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$/spring-security-oauth2-server" />
+              <option name="tableName" value="tb_permission" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\87085\Desktop\spring-security-oauth2\spring-security-oauth2-server" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="tb_role">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="TbRoleDao" />
+              <option name="daoPackage" value="mapper" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-server" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="TbRole" />
+              <option name="modelPackage" value="domain" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-server" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="tb_role" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$/spring-security-oauth2-server" />
+              <option name="tableName" value="tb_role" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\87085\Desktop\spring-security-oauth2\spring-security-oauth2-server" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="tb_role_permission">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="TbRolePermissionDao" />
+              <option name="daoPackage" value="mapper" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-server" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="TbRolePermission" />
+              <option name="modelPackage" value="domain" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-server" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="tb_role_permission" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$/spring-security-oauth2-server" />
+              <option name="tableName" value="tb_role_permission" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\87085\Desktop\spring-security-oauth2\spring-security-oauth2-server" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="tb_user">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="TbUserDao" />
+              <option name="daoPackage" value="mapper" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-server" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="TbUser" />
+              <option name="modelPackage" value="domain" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-server" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="tb_user" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$/spring-security-oauth2-server" />
+              <option name="tableName" value="tb_user" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\87085\Desktop\spring-security-oauth2\spring-security-oauth2-server" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="tb_user_role">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="TbUserRoleDao" />
+              <option name="daoPackage" value="mapper" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-server" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="TbUserRole" />
+              <option name="modelPackage" value="domain" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-server" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="tb_user_role" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$/spring-security-oauth2-server" />
+              <option name="tableName" value="tb_user_role" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\87085\Desktop\spring-security-oauth2\spring-security-oauth2-server" />
+            </Config>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="users">
+      <map>
+        <entry key="jdbc:mysql://localhost:3306/oauth?useUnicode=true&amp;characterEncoding=utf-8&amp;useSSL=false&amp;serverTimezone=GMT">
+          <value>
+            <User>
+              <option name="username" value="root" />
+            </User>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

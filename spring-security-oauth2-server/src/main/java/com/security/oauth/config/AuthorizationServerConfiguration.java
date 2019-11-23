@@ -22,7 +22,7 @@ import javax.sql.DataSource;
  * @author zhoujinmu
  * @title AuthorizationServerConfiguration
  * @projectName spring-security-oauth2
- * @description TODO
+ * @description 授权配置
  * @created 2019-11-21 08:53
  **/
 @Configuration
@@ -43,10 +43,13 @@ public class AuthorizationServerConfiguration extends AuthorizationServerConfigu
   }
 
   public ClientDetailsService jdbcClientDetails() {
+    //客户端信息放入数据库
     return new JdbcClientDetailsService(dataSource());
   }
+
   @Autowired
   private BCryptPasswordEncoder passwordEncoder;
+
   @Override
   public void configure(ClientDetailsServiceConfigurer clients) throws Exception {
 //    clients.inMemory()

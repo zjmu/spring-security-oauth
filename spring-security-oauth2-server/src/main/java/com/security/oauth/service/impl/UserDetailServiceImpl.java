@@ -14,7 +14,7 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 
 import java.util.List;
 
-/**
+/**根据用户名找到用户id根据id找到用户权限，将二者放入用户信息
  * @author zhoujinmu
  * @title UserDetailServiceImpl
  * @projectName spring-security-oauth2

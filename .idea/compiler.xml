@@ -14,7 +14,7 @@
       <module name="spring-boot-samples-dependencies" target="1.5" />
       <module name="spring-security-oauth2" target="1.8" />
       <module name="spring-security-oauth2-dependencies" target="1.5" />
-      <module name="spring-security-oauth2-dependenties" target="1.5" />
+      <module name="spring-security-oauth2-dependenties" target="1.8" />
       <module name="spring-security-oauth2-resources" target="1.8" />
       <module name="spring-security-oauth2-server" target="1.8" />
     </bytecodeTargetLevel>

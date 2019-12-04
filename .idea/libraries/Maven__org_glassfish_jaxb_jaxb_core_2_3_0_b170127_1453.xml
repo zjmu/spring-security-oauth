@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.glassfish.jaxb:jaxb-core:2.3.0-b170127.1453">
     <CLASSES>
-      <root url="jar://B:/tools/apache-maven-3.6.1-bin/apache-maven-3.6.1/conf/org/glassfish/jaxb/jaxb-core/2.3.0-b170127.1453/jaxb-core-2.3.0-b170127.1453.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jaxb/jaxb-core/2.3.0-b170127.1453/jaxb-core-2.3.0-b170127.1453.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://B:/tools/apache-maven-3.6.1-bin/apache-maven-3.6.1/conf/org/glassfish/jaxb/jaxb-core/2.3.0-b170127.1453/jaxb-core-2.3.0-b170127.1453-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jaxb/jaxb-core/2.3.0-b170127.1453/jaxb-core-2.3.0-b170127.1453-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://B:/tools/apache-maven-3.6.1-bin/apache-maven-3.6.1/conf/org/glassfish/jaxb/jaxb-core/2.3.0-b170127.1453/jaxb-core-2.3.0-b170127.1453-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jaxb/jaxb-core/2.3.0-b170127.1453/jaxb-core-2.3.0-b170127.1453-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

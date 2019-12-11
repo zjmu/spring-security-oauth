@@ -113,7 +113,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-maven-plugin</artifactId>
         <configuration>
-          <mainClass>com.funtl.oauth2.OAuth2ServerApplication</mainClass>
+          <mainClass>com.security.oauth.OAuthServerApplication</mainClass>
         </configuration>
       </plugin>
     </plugins>
